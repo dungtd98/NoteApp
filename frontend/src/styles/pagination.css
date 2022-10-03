@@ -1,0 +1,10 @@
+.pagination{
+    position: relative;
+    width: 100%;
+    transform: translateY(-100%);
+    text-align: center;
+}
+
+.pagination button{
+    margin-left: 10px;
+}

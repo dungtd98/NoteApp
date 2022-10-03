@@ -1,0 +1,62 @@
+.app-register{
+    position: relative;
+    height: 100%;
+    display: block;
+}
+
+.app-register h1{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    font-size: 50px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.app-register form{
+    position: relative;
+    transform: translateY(100%);
+}
+
+.app-register form .input{
+    display: block;
+    margin: auto;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    border-bottom: 2px #d6d1d1 solid;
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+.app-register #register-button{
+    position: relative;
+    padding: 10px;
+    display: flex;
+    margin-left: 65%;
+    color: #1f2124;
+    cursor: pointer;
+    font-weight: 700;
+    border-radius: 20px;
+    border:none
+  }
+
+.app-register #register-button:hover{
+    font-size: 15px;
+}
+  
+.app-register #register-button:active{
+    background-color: #999;
+}
+
+.app-register #login{
+    position: relative;
+    width: 100%;  
+    margin-top: 25px;
+    text-align: center;
+}
+
+.app-register #login #login-link a{
+    text-decoration: underline;
+    color: rgb(38, 183, 205);
+}
