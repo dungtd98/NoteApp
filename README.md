@@ -48,3 +48,8 @@ python manage.py migrate
 ```
 python manage.py runserver
 ```
+# App working
+* Login/Register/Logout
+![Note-App-Login-Register](https://user-images.githubusercontent.com/106716036/204022450-e6b97ba3-e070-4634-9180-f6bc578707c1.gif)
+* Create new Note
+
