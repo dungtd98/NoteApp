@@ -46,7 +46,7 @@ const NotePage = () => {
       updateNote();
     } else if (noteID !== "new" && note.body === "") {
       deleteNote();
-    } else if (noteID === "new" && note.body !== null) {
+    } else if (noteID === "new" && note !== null && note.body!=='') {
       createNote();
     }
     history(`/`);
