@@ -51,5 +51,10 @@ python manage.py runserver
 # App working
 * Login/Register/Logout
 ![Note-App-Login-Register](https://user-images.githubusercontent.com/106716036/204022450-e6b97ba3-e070-4634-9180-f6bc578707c1.gif)
-* Create new Note
+* Create new note
+![Add Note](https://user-images.githubusercontent.com/106716036/204023059-48968fb1-7c37-4238-8726-3cec17428f34.gif)
+* View Detail, Update, Delete note
+![CRUD-Note](https://user-images.githubusercontent.com/106716036/204025986-c3da22bd-0c59-46ad-96ab-b58ab7e61d2e.gif)
+* Search note by name
+![Search-function](https://user-images.githubusercontent.com/106716036/204025346-39ae5bb7-b442-4dc2-b05b-6d98112f8d41.gif)
 
